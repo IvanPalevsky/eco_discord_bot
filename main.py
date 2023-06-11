@@ -17,7 +17,7 @@ async def hello(ctx):
     await ctx.send("Введите команду $nature, чтобы получить информацию.")
 
 
-bot.run("MTExNzQ1MDYzNDU4OTg5NjcyNA.GWpzSJ.zYKmF92Exw5WusrDDAJ6o6dz2J1FPKatkblhS8")
+bot.run("")
 
 
 
